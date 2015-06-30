@@ -6,7 +6,7 @@
  * @author i@xtiv.net
  * @icon address-book.png
  * @mini paw
- * @see radius
+ * @see community
  * @link contact
  * @todo
  *
