@@ -2,8 +2,8 @@
 /**
  * @name Guestbook
  * @desc Contact Manager system for website feedback and the like
- * @version v1.11.10.25.12.53
- * @author i@xtiv.net
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon address-book.png
  * @mini paw
  * @see community
